@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 20 21:37:16 2022
-
 @author: IntellGenics Group
+
 """
 #Importing Libraries
 import re #re to apply regular expression
